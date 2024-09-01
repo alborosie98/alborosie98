@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alborosie98
-- 👀 I’m interested in software development, databases and DevOps
+- 👀 I’m interested in software development, databases and DevOps. Also what's the deal with cybersecurity?
 - 🌱 I’m currently learning everything from scratch LOL
 - ⚡ Fun fact: Everything has an end, only the sausage has two.
 
